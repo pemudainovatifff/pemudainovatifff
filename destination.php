@@ -46,12 +46,12 @@ include "koneksi/koneksi.php"
 <div class="sidebar">
     <ul class="sidebar-list">
         <li><a href="" class="close"><span class="ion-android-close"></span></a></li>
-        <li class="sidebar-list-hover"><a href="index.html">Home</a></li>
-        <li class="sidebar-list-hover"><a href="destination.html">Destination</a></li>
-        <li class="sidebar-list-hover"><a href="gallery.html">Gallery</a></li>
-        <li class="sidebar-list-hover"><a href="index.html#discover">Discover</a></li>
-        <li class="sidebar-list-hover"><a href="news.html"> News</a></li>
-        <li class="sidebar-list-hover"><a href="culture.html"> Culture</a></li>
+        <li class="sidebar-list-hover"><a href="index.php">Home</a></li>
+        <li class="sidebar-list-hover"><a href="destination.php">Destination</a></li>
+        <li class="sidebar-list-hover"><a href="gallery.php">Gallery</a></li>
+        <li class="sidebar-list-hover"><a href="index.php">Discover</a></li>
+        <li class="sidebar-list-hover"><a href="news.php"> News</a></li>
+        <li class="sidebar-list-hover"><a href="culture.php"> Culture</a></li>
         <li><a class="btn btn-orange btn-round" href="login/login.php"> Login</a></li>
     </ul>
 </div>
