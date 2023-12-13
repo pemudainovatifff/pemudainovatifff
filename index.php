@@ -89,7 +89,7 @@ include "koneksi/koneksi.php"
                 Banjarnegara
                 mulai
                 dari Wisata dan Budaya .
-                Tidak hanya sarana untuk memperkanalkan, <b>Banjarnegara Xplorer</b> juga bisa digunkaan untuk
+                Tidak hanya sarana untuk memperkenalkan, <b>Banjarnegara Xplorer</b> juga bisa digunkaan untuk
                 melihat
                 event - event apa yang
                 ada di Banjarnegara </p>
